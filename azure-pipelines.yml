@@ -11,7 +11,7 @@ variables:
   azureSubscription: '3b5bdd21-e3eb-466a-a107-d9a6b550235d'
 
   # Function app name
-  functionAppName: 'FunAppTest1'
+  functionAppName: 'testing-app-v2'
 
   # Agent VM image name
   vmImageName: 'vs2017-win2016'
